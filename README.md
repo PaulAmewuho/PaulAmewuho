@@ -35,5 +35,5 @@ I am a **Level 100 IT Student at UENR** and an aspiring **Software Engineer**. I
 ![Paul's GitHub Stats](https://vercel.app)
 
 ### 📫 Let's Connect
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](https://gh.linkedin.com/in/paul-amewuho-kutse-growth-solutions)
 - 🏢 Founder of **Kutse Growth Solutions**
