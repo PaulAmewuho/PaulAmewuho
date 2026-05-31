@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Paul Amewuho! 👋 🇬🇭
+# Hi, I'm Paul Amewuho! 👋 
 
 I am a **Level 100 IT Student at UENR** and an aspiring **Software Engineer**. I'm currently building my foundation by following a self-paced Computer Science roadmap alongside my university degree.
 
